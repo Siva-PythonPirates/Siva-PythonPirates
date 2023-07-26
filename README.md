@@ -22,12 +22,25 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Siva-PythonPirates&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Siva-PythonPirates&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Siva-PythonPirates&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Siva-PythonPirates&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Siva-PythonPirates&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siva-PythonPirates&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Siva-PythonPirates&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siva-PythonPirates&theme=github_dark" />
+
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Siva-PythonPirates&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Siva-PythonPirates&theme=darkhub&no-frame=true)
+
+
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Siva-PythonPirates&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+
+
