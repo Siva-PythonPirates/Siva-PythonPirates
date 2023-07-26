@@ -1,5 +1,37 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
+<style>
+  /* Light theme */
+  @media (prefers-color-scheme: light) {
+    body {
+      color: black;
+      background-color: white;
+    }
+    /* Add more CSS styling for light theme if needed */
+  }
+
+  /* Dark theme */
+  @media (prefers-color-scheme: dark) {
+    body {
+      color: white;
+      background-color: #1a1b22;
+    }
+    /* Add more CSS styling for dark theme if needed */
+  }
+
+  /* Buttons */
+  .btn {
+    display: inline-block;
+    padding: 8px 12px;
+    margin: 4px;
+    border: 2px solid var(--btn-border-color, #555);
+    background-color: var(--btn-bg-color, #777);
+    color: var(--btn-text-color, white);
+    border-radius: 4px;
+    text-decoration: none;
+  }
+</style>
+
 ## About Me
 👋 Hi, I'm Sivashankar. 
     I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering at Rajalakshmi Engineering College and  Bachelor's Degree in Data Science at Indian Institute of Madras.
