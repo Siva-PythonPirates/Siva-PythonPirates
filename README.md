@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&lines=Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 ## About Me
 👋 Hi, I'm Sivashankar. 
-    I'm currently pursuing my Bachelor's Degree in Computer Science and Engineering at Rajalakshmi Engineering College
 
 ---
 
